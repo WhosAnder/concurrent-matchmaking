@@ -1,0 +1,272 @@
+==== RESUMEN STRESS ====
+Meta: 150 jugadores efectivos en sync (4x40=160, >=150).
+[ERROR] Ocupacion negativa detectada en sala 4
+[ERROR] Ocupacion negativa detectada en sala 5
+[ERROR] Ocupacion negativa detectada en sala 8
+[ERROR] Ocupacion negativa detectada en sala 6
+[ERROR] Ocupacion negativa detectada en sala 7
+[ERROR] Ocupacion negativa detectada en sala 1
+[ERROR] Ocupacion negativa detectada en sala 1
+[ERROR] Ocupacion negativa detectada en sala 2
+[ERROR] Ocupacion negativa detectada en sala 6
+[ERROR] Ocupacion negativa detectada en sala 5
+[ERROR] Ocupacion negativa detectada en sala 3
+[ERROR] Ocupacion negativa detectada en sala 1
+[ERROR] Ocupacion negativa detectada en sala 7
+[ERROR] Ocupacion negativa detectada en sala 4
+[ERROR] Ocupacion negativa detectada en sala 2
+[ERROR] Ocupacion negativa detectada en sala 8
+[ERROR] Ocupacion negativa detectada en sala 4
+[ERROR] Ocupacion negativa detectada en sala 8
+[ERROR] Ocupacion negativa detectada en sala 5
+[ERROR] Ocupacion negativa detectada en sala 8
+[ERROR] Ocupacion negativa detectada en sala 3
+[ERROR] Ocupacion negativa detectada en sala 2
+[ERROR] Ocupacion negativa detectada en sala 2
+[ERROR] Ocupacion negativa detectada en sala 5
+[ERROR] Ocupacion negativa detectada en sala 3
+[ERROR] Ocupacion negativa detectada en sala 5
+[ERROR] Ocupacion negativa detectada en sala 6
+[ERROR] Ocupacion negativa detectada en sala 8
+[ERROR] Ocupacion negativa detectada en sala 2
+[ERROR] Ocupacion negativa detectada en sala 8
+[ERROR] Ocupacion negativa detectada en sala 4
+[ERROR] Ocupacion negativa detectada en sala 6
+[ERROR] Ocupacion negativa detectada en sala 3
+[ERROR] Ocupacion negativa detectada en sala 6
+[ERROR] Ocupacion negativa detectada en sala 2
+[ERROR] Ocupacion negativa detectada en sala 5
+[ERROR] Ocupacion negativa detectada en sala 7
+[ERROR] Ocupacion negativa detectada en sala 7
+[ERROR] Ocupacion negativa detectada en sala 6
+[ERROR] Ocupacion negativa detectada en sala 4
+[ERROR] Ocupacion negativa detectada en sala 2
+[ERROR] Ocupacion negativa detectada en sala 6
+[ERROR] Ocupacion negativa detectada en sala 4
+[ERROR] Ocupacion negativa detectada en sala 3
+[ERROR] Ocupacion negativa detectada en sala 7
+[ERROR] Ocupacion negativa detectada en sala 5
+[ERROR] Ocupacion negativa detectada en sala 8
+[ERROR] Ocupacion negativa detectada en sala 3
+[ERROR] Ocupacion negativa detectada en sala 8
+[ERROR] Ocupacion negativa detectada en sala 8
+[ERROR] Ocupacion negativa detectada en sala 8
+[ERROR] Ocupacion negativa detectada en sala 3
+[ERROR] Ocupacion negativa detectada en sala 3
+[ERROR] Ocupacion negativa detectada en sala 5
+[ERROR] Ocupacion negativa detectada en sala 3
+[ERROR] Ocupacion negativa detectada en sala 7
+[ERROR] Ocupacion negativa detectada en sala 3
+[ERROR] Ocupacion negativa detectada en sala 3
+[ERROR] Ocupacion negativa detectada en sala 7
+[ERROR] Ocupacion negativa detectada en sala 5
+[ERROR] Ocupacion negativa detectada en sala 4
+[ERROR] Ocupacion negativa detectada en sala 5
+[ERROR] Ocupacion negativa detectada en sala 8
+[ERROR] Ocupacion negativa detectada en sala 3
+[ERROR] Ocupacion negativa detectada en sala 2
+[ERROR] Ocupacion negativa detectada en sala 8
+[ERROR] Ocupacion negativa detectada en sala 8
+[ERROR] Ocupacion negativa detectada en sala 5
+[ERROR] Ocupacion negativa detectada en sala 4
+[ERROR] Ocupacion negativa detectada en sala 8
+[ERROR] Ocupacion negativa detectada en sala 8
+[ERROR] Ocupacion negativa detectada en sala 3
+[ERROR] Ocupacion negativa detectada en sala 4
+[ERROR] Ocupacion negativa detectada en sala 5
+[ERROR] Ocupacion negativa detectada en sala 2
+[ERROR] Ocupacion negativa detectada en sala 5
+[ERROR] Ocupacion negativa detectada en sala 4
+[ERROR] Ocupacion negativa detectada en sala 6
+[ERROR] Ocupacion negativa detectada en sala 2
+[ERROR] Ocupacion negativa detectada en sala 4
+[ERROR] Ocupacion negativa detectada en sala 8
+[ERROR] Ocupacion negativa detectada en sala 4
+[ERROR] Ocupacion negativa detectada en sala 5
+[ERROR] Ocupacion negativa detectada en sala 3
+[ERROR] Ocupacion negativa detectada en sala 6
+[ERROR] Ocupacion negativa detectada en sala 5
+[ERROR] Ocupacion negativa detectada en sala 8
+[ERROR] Ocupacion negativa detectada en sala 5
+[ERROR] Ocupacion negativa detectada en sala 4
+[ERROR] Ocupacion negativa detectada en sala 3
+[ERROR] Ocupacion negativa detectada en sala 3
+[ERROR] Ocupacion negativa detectada en sala 5
+[ERROR] Ocupacion negativa detectada en sala 5
+[ERROR] Ocupacion negativa detectada en sala 5
+[ERROR] Ocupacion negativa detectada en sala 3
+[ERROR] Ocupacion negativa detectada en sala 5
+[ERROR] Ocupacion negativa detectada en sala 7
+[ERROR] Ocupacion negativa detectada en sala 5
+[ERROR] Ocupacion negativa detectada en sala 1
+[ERROR] Ocupacion negativa detectada en sala 2
+[ERROR] Ocupacion negativa detectada en sala 3
+[ERROR] Ocupacion negativa detectada en sala 4
+[ERROR] Ocupacion negativa detectada en sala 8
+[ERROR] Ocupacion negativa detectada en sala 7
+[ERROR] Ocupacion negativa detectada en sala 8
+[ERROR] Ocupacion negativa detectada en sala 2
+[ERROR] Ocupacion negativa detectada en sala 3
+[ERROR] Ocupacion negativa detectada en sala 1
+[ERROR] Ocupacion negativa detectada en sala 7
+[ERROR] Ocupacion negativa detectada en sala 3
+[ERROR] Ocupacion negativa detectada en sala 1
+[ERROR] Ocupacion negativa detectada en sala 8
+[ERROR] Ocupacion negativa detectada en sala 1
+[ERROR] Ocupacion negativa detectada en sala 2
+[ERROR] Ocupacion negativa detectada en sala 7
+[ERROR] Ocupacion negativa detectada en sala 8
+[ERROR] Ocupacion negativa detectada en sala 3
+[ERROR] Ocupacion negativa detectada en sala 4
+[ERROR] Ocupacion negativa detectada en sala 8
+[ERROR] Ocupacion negativa detectada en sala 6
+[ERROR] Ocupacion negativa detectada en sala 4
+[ERROR] Ocupacion negativa detectada en sala 8
+[ERROR] Ocupacion negativa detectada en sala 7
+[ERROR] Ocupacion negativa detectada en sala 7
+[ERROR] Ocupacion negativa detectada en sala 7
+[ERROR] Ocupacion negativa detectada en sala 5
+[ERROR] Ocupacion negativa detectada en sala 3
+[ERROR] Ocupacion negativa detectada en sala 7
+[ERROR] Ocupacion negativa detectada en sala 8
+[ERROR] Ocupacion negativa detectada en sala 4
+[ERROR] Ocupacion negativa detectada en sala 4
+[ERROR] Ocupacion negativa detectada en sala 8
+[ERROR] Ocupacion negativa detectada en sala 3
+[ERROR] Ocupacion negativa detectada en sala 8
+[ERROR] Ocupacion negativa detectada en sala 5
+[ERROR] Ocupacion negativa detectada en sala 5
+[ERROR] Ocupacion negativa detectada en sala 5
+[ERROR] Ocupacion negativa detectada en sala 3
+[ERROR] Ocupacion negativa detectada en sala 3
+[ERROR] Ocupacion negativa detectada en sala 8
+[ERROR] Ocupacion negativa detectada en sala 1
+[ERROR] Ocupacion negativa detectada en sala 3
+[ERROR] Ocupacion negativa detectada en sala 1
+[ERROR] Ocupacion negativa detectada en sala 3
+[ERROR] Ocupacion negativa detectada en sala 1
+[ERROR] Ocupacion negativa detectada en sala 5
+[ERROR] Ocupacion negativa detectada en sala 8
+[ERROR] Ocupacion negativa detectada en sala 5
+[ERROR] Ocupacion negativa detectada en sala 1
+[ERROR] Ocupacion negativa detectada en sala 4
+[ERROR] Ocupacion negativa detectada en sala 7
+[ERROR] Ocupacion negativa detectada en sala 4
+[ERROR] Ocupacion negativa detectada en sala 1
+[ERROR] Ocupacion negativa detectada en sala 7
+[ERROR] Ocupacion negativa detectada en sala 5
+[ERROR] Ocupacion negativa detectada en sala 7
+[ERROR] Ocupacion negativa detectada en sala 3
+[ERROR] Ocupacion negativa detectada en sala 4
+[ERROR] Ocupacion negativa detectada en sala 7
+[ERROR] Ocupacion negativa detectada en sala 4
+[ERROR] Ocupacion negativa detectada en sala 3
+[ERROR] Ocupacion negativa detectada en sala 5
+[ERROR] Ocupacion negativa detectada en sala 3
+[ERROR] Ocupacion negativa detectada en sala 3
+[ERROR] Ocupacion negativa detectada en sala 8
+[ERROR] Ocupacion negativa detectada en sala 1
+[ERROR] Ocupacion negativa detectada en sala 7
+[ERROR] Ocupacion negativa detectada en sala 4
+[ERROR] Ocupacion negativa detectada en sala 2
+[ERROR] Ocupacion negativa detectada en sala 3
+[ERROR] Ocupacion negativa detectada en sala 1
+[ERROR] Ocupacion negativa detectada en sala 2
+[ERROR] Ocupacion negativa detectada en sala 2
+[ERROR] Ocupacion negativa detectada en sala 8
+[ERROR] Ocupacion negativa detectada en sala 7
+[ERROR] Ocupacion negativa detectada en sala 4
+[ERROR] Ocupacion negativa detectada en sala 8
+[ERROR] Ocupacion negativa detectada en sala 7
+[ERROR] Ocupacion negativa detectada en sala 4
+[ERROR] Ocupacion negativa detectada en sala 5
+[ERROR] Ocupacion negativa detectada en sala 7
+[ERROR] Ocupacion negativa detectada en sala 4
+[ERROR] Ocupacion negativa detectada en sala 7
+[ERROR] Ocupacion negativa detectada en sala 1
+[ERROR] Ocupacion negativa detectada en sala 8
+[ERROR] Ocupacion negativa detectada en sala 3
+[ERROR] Ocupacion negativa detectada en sala 7
+[ERROR] Ocupacion negativa detectada en sala 5
+[ERROR] Ocupacion negativa detectada en sala 1
+[ERROR] Ocupacion negativa detectada en sala 7
+[ERROR] Ocupacion negativa detectada en sala 8
+[ERROR] Ocupacion negativa detectada en sala 4
+[ERROR] Ocupacion negativa detectada en sala 1
+[ERROR] Ocupacion negativa detectada en sala 8
+[ERROR] Ocupacion negativa detectada en sala 1
+[ERROR] Ocupacion negativa detectada en sala 4
+[ERROR] Ocupacion negativa detectada en sala 6
+[ERROR] Ocupacion negativa detectada en sala 3
+[ERROR] Ocupacion negativa detectada en sala 8
+[ERROR] Ocupacion negativa detectada en sala 5
+[ERROR] Ocupacion negativa detectada en sala 5
+[ERROR] Ocupacion negativa detectada en sala 7
+[ERROR] Ocupacion negativa detectada en sala 7
+[ERROR] Ocupacion negativa detectada en sala 5
+[ERROR] Ocupacion negativa detectada en sala 7
+[ERROR] Ocupacion negativa detectada en sala 1
+[ERROR] Ocupacion negativa detectada en sala 4
+[ERROR] Ocupacion negativa detectada en sala 5
+[ERROR] Ocupacion negativa detectada en sala 3
+[ERROR] Ocupacion negativa detectada en sala 3
+[ERROR] Ocupacion negativa detectada en sala 8
+[ERROR] Ocupacion negativa detectada en sala 1
+[ERROR] Ocupacion negativa detectada en sala 5
+[ERROR] Ocupacion negativa detectada en sala 1
+[ERROR] Ocupacion negativa detectada en sala 3
+[ERROR] Ocupacion negativa detectada en sala 5
+[ERROR] Ocupacion negativa detectada en sala 5
+[ERROR] Ocupacion negativa detectada en sala 5
+[ERROR] Ocupacion negativa detectada en sala 1
+[ERROR] Ocupacion negativa detectada en sala 1
+[ERROR] Ocupacion negativa detectada en sala 7
+[ERROR] Ocupacion negativa detectada en sala 4
+[ERROR] Ocupacion negativa detectada en sala 6
+[ERROR] Ocupacion negativa detectada en sala 7
+[ERROR] Ocupacion negativa detectada en sala 8
+[ERROR] Ocupacion negativa detectada en sala 7
+[ERROR] Ocupacion negativa detectada en sala 4
+[ERROR] Ocupacion negativa detectada en sala 2
+[ERROR] Ocupacion negativa detectada en sala 8
+[ERROR] Ocupacion negativa detectada en sala 7
+[ERROR] Ocupacion negativa detectada en sala 3
+========== RESUMEN UNSYNC ==========
+[GLOBAL] completados=40/40
+[GLOBAL] entradas=320 salidas=320 esperadas=320
+[ERROR] Conteo inconsistente detectado.
+[WARN] sem_init no disponible en este sistema; usando fallback local para ejecutar demo.
+========== RESUMEN SYNC ==========
+[GLOBAL] completados=40/40 dentro=0
+[GLOBAL] salas creadas=8 salas cerradas=8
+[OK] Ninguna sala excedio su capacidad.
+[OK] Todos los jugadores terminaron correctamente.
+[SYNC-150] ./bin/sync_matchmaking 40 1 (4 lotes)
+--- lote 1/4 ---
+[WARN] sem_init no disponible en este sistema; usando fallback local para ejecutar demo.
+========== RESUMEN SYNC ==========
+[GLOBAL] completados=40/40 dentro=0
+[GLOBAL] salas creadas=8 salas cerradas=8
+[OK] Ninguna sala excedio su capacidad.
+[OK] Todos los jugadores terminaron correctamente.
+--- lote 2/4 ---
+[WARN] sem_init no disponible en este sistema; usando fallback local para ejecutar demo.
+========== RESUMEN SYNC ==========
+[GLOBAL] completados=40/40 dentro=0
+[GLOBAL] salas creadas=8 salas cerradas=8
+[OK] Ninguna sala excedio su capacidad.
+[OK] Todos los jugadores terminaron correctamente.
+--- lote 3/4 ---
+[WARN] sem_init no disponible en este sistema; usando fallback local para ejecutar demo.
+========== RESUMEN SYNC ==========
+[GLOBAL] completados=40/40 dentro=0
+[GLOBAL] salas creadas=8 salas cerradas=8
+[OK] Ninguna sala excedio su capacidad.
+[OK] Todos los jugadores terminaron correctamente.
+--- lote 4/4 ---
+[WARN] sem_init no disponible en este sistema; usando fallback local para ejecutar demo.
+========== RESUMEN SYNC ==========
+[GLOBAL] completados=40/40 dentro=0
+[GLOBAL] salas creadas=8 salas cerradas=8
+[OK] Ninguna sala excedio su capacidad.
+[OK] Todos los jugadores terminaron correctamente.
