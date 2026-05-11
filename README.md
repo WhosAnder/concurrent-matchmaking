@@ -50,6 +50,7 @@ Targets disponibles:
 make run-unsync
 make run-sync
 make stress
+make run-demo-12
 ```
 
 Ejecucion directa:
@@ -91,6 +92,7 @@ make
 make run-unsync
 make run-sync
 make stress
+make run-demo-12
 ```
 
 Nota: la demo final y evidencia de entrega deben ejecutarse en Linux/WSL/Docker Linux/VM Linux.

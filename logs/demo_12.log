@@ -1,0 +1,166 @@
+==== DEMO 12 JUGADORES 2026-05-11 12:58:15 ====
+[UNSYNC] ./bin/unsync_matchmaking 12 2
+=== Matchmaking UNSYNC | players=12 rooms=8 cap=5 rounds=2 ===
+[PLAYER 1] buscando sala... (ronda 1)
+[PLAYER 2] buscando sala... (ronda 1)
+[PLAYER 3] buscando sala... (ronda 1)
+[PLAYER 4] buscando sala... (ronda 1)
+[PLAYER 5] buscando sala... (ronda 1)
+[PLAYER 6] buscando sala... (ronda 1)
+[PLAYER 7] buscando sala... (ronda 1)
+[PLAYER 8] buscando sala... (ronda 1)
+[PLAYER 9] buscando sala... (ronda 1)
+[PLAYER 10] buscando sala... (ronda 1)
+[PLAYER 11] buscando sala... (ronda 1)
+[PLAYER 12] buscando sala... (ronda 1)
+[ROOM 5] jugador 7 entro. Ocupacion: 1/5
+[ROOM 6] jugador 3 entro. Ocupacion: 1/5
+[ROOM 4] jugador 5 entro. Ocupacion: 1/5
+[ROOM 8] jugador 6 entro. Ocupacion: 1/5
+[ROOM 7] jugador 4 entro. Ocupacion: 1/5
+[ROOM 1] jugador 2 entro. Ocupacion: 1/5
+[ROOM 4] jugador 11 entro. Ocupacion: 1/5
+[ROOM 3] jugador 9 entro. Ocupacion: 1/5
+[ROOM 3] jugador 10 entro. Ocupacion: 1/5
+[ROOM 5] jugador 12 entro. Ocupacion: 1/5
+[ROOM 1] jugador 1 entro. Ocupacion: 1/5
+[ROOM 6] jugador 8 entro. Ocupacion: 1/5
+[ROOM 3] jugador 10 salio. Ocupacion: -1/5
+[ERROR] Ocupacion negativa detectada en sala 3
+[ROOM 3] jugador 9 salio. Ocupacion: 0/5
+[ERROR] Ocupacion negativa detectada en sala 3
+[ROOM 8] jugador 6 salio. Ocupacion: 0/5
+[ROOM 5] jugador 7 salio. Ocupacion: 0/5
+[ROOM 6] jugador 8 salio. Ocupacion: 0/5
+[PLAYER 10] buscando sala... (ronda 2)
+[PLAYER 7] buscando sala... (ronda 2)
+[ROOM 1] jugador 1 salio. Ocupacion: 0/5
+[PLAYER 6] buscando sala... (ronda 2)
+[PLAYER 9] buscando sala... (ronda 2)
+[PLAYER 8] buscando sala... (ronda 2)
+[ROOM 1] jugador 6 entro. Ocupacion: 1/5
+[PLAYER 1] buscando sala... (ronda 2)
+[ROOM 7] jugador 10 entro. Ocupacion: 2/5
+[ROOM 6] jugador 8 entro. Ocupacion: 1/5
+[ROOM 5] jugador 7 entro. Ocupacion: 1/5
+[ROOM 8] jugador 1 entro. Ocupacion: 1/5
+[ROOM 2] jugador 9 entro. Ocupacion: 1/5
+[ROOM 6] jugador 3 salio. Ocupacion: 0/5
+[ROOM 4] jugador 5 salio. Ocupacion: 0/5
+[PLAYER 3] buscando sala... (ronda 2)
+[ROOM 7] jugador 4 salio. Ocupacion: 1/5
+[ROOM 1] jugador 2 salio. Ocupacion: 0/5
+[ROOM 4] jugador 11 salio. Ocupacion: -1/5
+[ERROR] Ocupacion negativa detectada en sala 4
+[PLAYER 2] buscando sala... (ronda 2)
+[PLAYER 5] buscando sala... (ronda 2)
+[ROOM 5] jugador 12 salio. Ocupacion: 0/5
+[PLAYER 4] buscando sala... (ronda 2)
+[PLAYER 11] buscando sala... (ronda 2)
+[ROOM 5] jugador 2 entro. Ocupacion: 2/5
+[PLAYER 12] buscando sala... (ronda 2)
+[ROOM 6] jugador 5 entro. Ocupacion: 1/5
+[ROOM 1] jugador 11 entro. Ocupacion: 1/5
+[ROOM 1] jugador 3 entro. Ocupacion: 2/5
+[ROOM 2] jugador 12 entro. Ocupacion: 2/5
+[ROOM 1] jugador 6 salio. Ocupacion: 1/5
+[ROOM 2] jugador 4 entro. Ocupacion: 2/5
+[ROOM 7] jugador 10 salio. Ocupacion: 0/5
+[ROOM 2] jugador 9 salio. Ocupacion: 1/5
+[ROOM 8] jugador 1 salio. Ocupacion: 0/5
+[ROOM 5] jugador 2 salio. Ocupacion: 1/5
+[ROOM 1] jugador 11 salio. Ocupacion: 0/5
+[ROOM 5] jugador 7 salio. Ocupacion: 0/5
+[ROOM 6] jugador 8 salio. Ocupacion: 0/5
+[ROOM 2] jugador 12 salio. Ocupacion: 0/5
+[ROOM 1] jugador 3 salio. Ocupacion: -1/5
+[ERROR] Ocupacion negativa detectada en sala 1
+[ROOM 6] jugador 5 salio. Ocupacion: -1/5
+[ERROR] Ocupacion negativa detectada en sala 6
+[ROOM 2] jugador 4 salio. Ocupacion: -1/5
+[ERROR] Ocupacion negativa detectada en sala 2
+
+========== RESUMEN UNSYNC ==========
+[ROOM 1] entries=5 exits=5 final_occ=-1
+[ROOM 2] entries=3 exits=3 final_occ=-1
+[ROOM 3] entries=2 exits=2 final_occ=-1
+[ROOM 4] entries=2 exits=2 final_occ=-1
+[ROOM 5] entries=4 exits=4 final_occ=0
+[ROOM 6] entries=4 exits=4 final_occ=-1
+[ROOM 7] entries=2 exits=2 final_occ=0
+[ROOM 8] entries=2 exits=2 final_occ=0
+[GLOBAL] completados=12/12
+[GLOBAL] entradas=24 salidas=24 esperadas=24
+[ERROR] Conteo inconsistente detectado.
+
+[SYNC] ./bin/sync_matchmaking 12 1
+=== Matchmaking SYNC | players=12 rooms=8 cap=5 ===
+[WARN] sem_init no disponible en este sistema; usando fallback local para ejecutar demo.
+[SERVER] Sala 1 activada. Salas activas: 1
+[PLAYER 1] buscando sala...
+[ROOM 1] jugador 1 entro. Ocupacion: 1/5
+[PLAYER 2] buscando sala...
+[ROOM 1] jugador 2 entro. Ocupacion: 2/5
+[PLAYER 3] buscando sala...
+[ROOM 1] jugador 3 entro. Ocupacion: 3/5
+[PLAYER 4] buscando sala...
+[ROOM 1] jugador 4 entro. Ocupacion: 4/5
+[PLAYER 5] buscando sala...
+[ROOM 1] jugador 5 entro. Ocupacion: 5/5
+[PLAYER 6] buscando sala...
+[SERVER] Sala 2 activada. Salas activas: 2
+[ROOM 2] jugador 6 entro. Ocupacion: 1/5
+[PLAYER 7] buscando sala...
+[ROOM 2] jugador 7 entro. Ocupacion: 2/5
+[PLAYER 8] buscando sala...
+[ROOM 2] jugador 8 entro. Ocupacion: 3/5
+[PLAYER 9] buscando sala...
+[ROOM 2] jugador 9 entro. Ocupacion: 4/5
+[PLAYER 10] buscando sala...
+[ROOM 2] jugador 10 entro. Ocupacion: 5/5
+[PLAYER 11] buscando sala...
+[SERVER] Sala 3 activada. Salas activas: 3
+[ROOM 3] jugador 11 entro. Ocupacion: 1/5
+[PLAYER 12] buscando sala...
+[ROOM 3] jugador 12 entro. Ocupacion: 2/5
+[ROOM 2] jugador 6 salio. Ocupacion: 4/5
+[SIGNAL] espacio disponible, no hay cola activa.
+[ROOM 2] jugador 10 salio. Ocupacion: 3/5
+[SIGNAL] espacio disponible, no hay cola activa.
+[ROOM 2] jugador 7 salio. Ocupacion: 2/5
+[SIGNAL] espacio disponible, no hay cola activa.
+[ROOM 3] jugador 11 salio. Ocupacion: 1/5
+[SIGNAL] espacio disponible, no hay cola activa.
+[ROOM 2] jugador 8 salio. Ocupacion: 1/5
+[SIGNAL] espacio disponible, no hay cola activa.
+[ROOM 1] jugador 2 salio. Ocupacion: 4/5
+[SIGNAL] espacio disponible, no hay cola activa.
+[ROOM 3] jugador 12 salio. Ocupacion: 0/5
+[SERVER] Sala 3 marcada inactiva. Salas activas: 2
+[SIGNAL] espacio disponible, no hay cola activa.
+[ROOM 1] jugador 1 salio. Ocupacion: 3/5
+[SIGNAL] espacio disponible, no hay cola activa.
+[ROOM 1] jugador 3 salio. Ocupacion: 2/5
+[SIGNAL] espacio disponible, no hay cola activa.
+[ROOM 1] jugador 4 salio. Ocupacion: 1/5
+[SIGNAL] espacio disponible, no hay cola activa.
+[ROOM 1] jugador 5 salio. Ocupacion: 0/5
+[SERVER] Sala 1 marcada inactiva. Salas activas: 1
+[SIGNAL] espacio disponible, no hay cola activa.
+[ROOM 2] jugador 9 salio. Ocupacion: 0/5
+[SERVER] Sala 2 marcada inactiva. Salas activas: 0
+[SIGNAL] espacio disponible, no hay cola activa.
+
+========== RESUMEN SYNC ==========
+[ROOM 1] activa=0 entries=5 exits=5 occ=0/5
+[ROOM 2] activa=0 entries=5 exits=5 occ=0/5
+[ROOM 3] activa=0 entries=2 exits=2 occ=0/5
+[ROOM 4] activa=0 entries=0 exits=0 occ=0/5
+[ROOM 5] activa=0 entries=0 exits=0 occ=0/5
+[ROOM 6] activa=0 entries=0 exits=0 occ=0/5
+[ROOM 7] activa=0 entries=0 exits=0 occ=0/5
+[ROOM 8] activa=0 entries=0 exits=0 occ=0/5
+[GLOBAL] completados=12/12 dentro=0
+[GLOBAL] salas creadas=3 salas cerradas=3
+[OK] Ninguna sala excedio su capacidad.
+[OK] Todos los jugadores terminaron correctamente.

@@ -6,7 +6,7 @@ BIN_DIR=bin
 UNSYNC=$(BIN_DIR)/unsync_matchmaking
 SYNC=$(BIN_DIR)/sync_matchmaking
 
-.PHONY: all unsync sync clean run-unsync run-sync stress
+.PHONY: all unsync sync clean run-unsync run-sync stress run-demo-12
 
 all: unsync sync
 
@@ -30,6 +30,9 @@ run-sync: sync
 
 stress: all
 	bash scripts/run_stress.sh
+
+run-demo-12: all
+	bash scripts/run_demo_12.sh
 
 clean:
 	rm -rf $(BIN_DIR)/*.o $(UNSYNC) $(SYNC)
