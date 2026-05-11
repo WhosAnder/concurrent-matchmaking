@@ -1,0 +1,19 @@
+==== RESUMEN DEMO 12 ====
+[UNSYNC] ./bin/unsync_matchmaking 12 2
+[ERROR] Ocupacion negativa detectada en sala 3
+[ERROR] Ocupacion negativa detectada en sala 3
+[ERROR] Ocupacion negativa detectada en sala 4
+[ERROR] Ocupacion negativa detectada en sala 1
+[ERROR] Ocupacion negativa detectada en sala 6
+[ERROR] Ocupacion negativa detectada en sala 2
+========== RESUMEN UNSYNC ==========
+[GLOBAL] completados=12/12
+[GLOBAL] entradas=24 salidas=24 esperadas=24
+[ERROR] Conteo inconsistente detectado.
+[SYNC] ./bin/sync_matchmaking 12 1
+[WARN] sem_init no disponible en este sistema; usando fallback local para ejecutar demo.
+========== RESUMEN SYNC ==========
+[GLOBAL] completados=12/12 dentro=0
+[GLOBAL] salas creadas=3 salas cerradas=3
+[OK] Ninguna sala excedio su capacidad.
+[OK] Todos los jugadores terminaron correctamente.

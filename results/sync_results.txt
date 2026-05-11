@@ -1,7 +1,0 @@
-==== RESUMEN SYNC ====
-[WARN] sem_init no disponible en este sistema; usando fallback local para ejecutar demo.
-========== RESUMEN SYNC ==========
-[GLOBAL] completados=40/40 dentro=0
-[GLOBAL] salas creadas=8 salas cerradas=8
-[OK] Ninguna sala excedio su capacidad.
-[OK] Todos los jugadores terminaron correctamente.
